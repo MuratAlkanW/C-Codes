@@ -1,1 +1,1 @@
-# C-C-Scripts
+# C & C++ Scripts
